@@ -32,7 +32,7 @@
           <mxGeometry height="60" width="120" x="-330" y="-180" as="geometry" />
         </mxCell>
         <mxCell id="Vb6XeXx3_YySl-xnw7fN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vaga" vertex="1">
-          <mxGeometry height="60" width="120" x="-330" y="132.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="-330" y="130" as="geometry" />
         </mxCell>
         <mxCell id="Vb6XeXx3_YySl-xnw7fN-4" edge="1" parent="1" source="Vb6XeXx3_YySl-xnw7fN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="FcEaryFCSoFDghCYxI9T-6">
           <mxGeometry relative="1" as="geometry" />
